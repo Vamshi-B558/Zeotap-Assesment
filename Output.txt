@@ -1,0 +1,16 @@
+Employee:
+Name: John Doe
+Employee ID: 1
+Salary: 50000.0
+
+Manager:
+Name: Jane Smith
+Employee ID: 2
+Salary: 70000.0
+Department: Marketing
+
+Developer:
+Name: Bob Johnson
+Employee ID: 3
+Salary: 60000.0
+Programming Language: Java
