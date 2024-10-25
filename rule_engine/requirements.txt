@@ -1,0 +1,13 @@
+
+pip install -r requirements.txt   <-#to install all dependencies at once, run
+
+
+1- pip install flask
+2- pip install mysql-connector-python
+3 -pip install pytest
+4- Flask
+mysql-connector-python
+
+With these packages installed, environment will be ready to support the Rule Engine’s functionality. 
+
+
